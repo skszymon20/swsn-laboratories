@@ -1,0 +1,10 @@
+flavorDB
+
+chemtastesdb ?
+pubchem ?
+
+https://vchoo.github.io/
+
+https://www.cheminformania.com/molecular-neural-network-models-with-rdkit-and-keras-in-python/
+https://www.rdkit.org/docs/GettingStartedInPython.html
+https://www.cheminformania.com/wash-that-gold-modelling-solubility-with-molecular-fingerprints/
